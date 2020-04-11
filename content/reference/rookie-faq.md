@@ -34,11 +34,6 @@ not magically move it to your current station.
 Press <kbd>Alt</kbd>-<kbd>T</kbd> to open the Assets window which lists all of your assets
 by station. Note that the assets window only updates once every ~5 minutes.
 
-#### How do I use the scanning interface?
-EVE has a set of tutorial videos to help you figure this out. Press <kbd>F12</kbd> to
-open the 'Help' window, then select the 'Tutorial Videos' tab. Scroll down to 'Exploration'
-and watch the scanning videos there.
-
 #### Is it better to sell ore directly or reprocess it and sell the minerals?
 For new players it is generally better to sell the ore itself, because new players
 will not have the level of skills required to efficiently refine ore into the full
